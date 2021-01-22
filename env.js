@@ -1,0 +1,12 @@
+export const dialogflowConfig={
+    "type": "service_account",
+  "project_id": "crudfirebasenew",
+  "private_key_id": "778b655aefd8656e68430aee3dd1e12228036145",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDB094ftoQsrqpx\n52JHFQdt4OGr9796uCXJAeTfZzHWyv8U7csM18UD+FFTTh2bWaDD4OtuUUMz4Hbk\nv+cxYthq7xcPLuczDT3EWwxtjvz13j3n1m+/eRXNjQmvUaEOlzv6xNmGN4ryhGbd\nel2W1Rl6haKl8GvlSxdYp89bGhsuwffD7tbU52oy4DqZpeXv5yxIJr2QRYg/b956\n427AYNDoHRIOyYUBsNL/ONBFGtSqZQhfDlnX1az6eP56rUZDtGKozIwdepC+SadH\n/eg3h3FuBXM1vk0Edec9/62KcoukptAxVKWK5y9XdfWcM0+wk8a+B52DfP1Vx4Lx\nSFC/dC2BAgMBAAECggEAKHCVXAV/DzmEC07M5OrAyY6NVw1SMH8CNy2DfI7xyZBB\n5zJz1mKgUuM4yIo4SCTLk4K2bCZdQJIZDEHzsQyf/bOTmpHdH/wnwnOCpMscAQpU\n3S2S1B6ly2SdPCxqT3qDQ59ViRjGjzHLqnLw2trsPXFrTXbbdBQWM2OTsjzApiDp\nQ+MXNgwE820i5TQ2j4kXXlYXJYWWqNFB9iSc6GXf5jcDkpthsbdk8kpVRZxd+jQC\nZK9v47AVcjEDg/FeWx/PPdRtdJYMyxtwQoq3vIF0kEG5FlIreNLutKrGvAhscK8b\nSO35gohhhACcYn18SERMmYWjzufaa1WQ83vcPjaLnwKBgQD/s11gzD8fGl789eER\nzu2h/61/QSId2IWC9sfRyM4LHHpgeWwboaNUnbOKUfRZpv/i9MqI9K8mCqdGqST3\nr7vc5JYWr3JSe9GfW5JnDO6h6vzFEfOz8NEIuhXYIK92wBQahMubdxgfN0/L1TSp\n48XH/cphHDc34EFedVYHZXvCAwKBgQDCDfWKHs02vtxRqCqlKL3ftIVima1NZLxh\nKaZCsnRaRXak2/7sdTd3VBnOSXeTIFcQrSwhfBM7ML1c7Bxp8NvOEc3oZOVFqVDU\nL0chlaqa2e2l6RePXotoAD+0nXrEXbSuk9hUYuAXDhbI7yDlJHFEDhdytOuiyCL5\naZe7TbrdKwKBgQCeVe0usYsssWG8dm0mX+Kae/5tXGHJ5XfXPwVBDH06OCo3bzjY\na2D+VqEEt/b9RQITAc4gvJNwlQw8HyU7EuDbydh+t6mtFesaKNQhZ8qlDSP0zEcC\nV864/rHkIWlFuW85dJ236SlQuyl4aM+xm8+vJaKaO6Sdvwn7eeEJt3fJDQKBgQC4\nfNDtSS9MVtPbBgfVERDC9zrAbN3n8FdwAErCqioYEGYlgcmwQBhFaD1Ic2wtAdgE\nUL7d7rnR0hqVlxvEVGqEVUTvJc0bF0dzEqeLdGDH61wWGa5+bSIX8/Sc4ALxYSz/\ntCs8vuvQv2JGEaGyd5z/WG5ObVaAYcluWUcZmWKIFQKBgBGf7HgB/iYYfvV37b4s\nMXaZ5xyPW9FYt56EzHmpid2TtyE5BSAkbKerAqGo9ZbV2oG7rtgsEqX2SOEnDA1M\n5UVgsWBsYUWfZN2cKn0cVno8mg9JhDYGQHjWLTXOk5vpzjVoEtcl7zvtGleC0/b6\n58z3Z5Ja8CQj0/nc7hJYuPjN\n-----END PRIVATE KEY-----\n",
+  "client_email": "servicecomplain@crudfirebasenew.iam.gserviceaccount.com",
+  "client_id": "105072326864429263836",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/servicecomplain%40crudfirebasenew.iam.gserviceaccount.com"
+}

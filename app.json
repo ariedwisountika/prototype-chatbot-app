@@ -1,0 +1,12 @@
+{
+  "name": "ChatBot",
+  "displayName": "ChatBot",
+  "expo": {
+    "name": "ChatBot",
+    "slug": "ChatBot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
